@@ -22,3 +22,5 @@ Classification Models implemented in this Repository are:
 - Logistic Regression
 - K Nearest Neighbors
 - Naive Bayes
+
+Note: Red_Wine_Data.csv is the original dataset. After cleaning that file in Logistic Regression, it is saved as Enhanced_Dataset.csv and it is used in all the other models.
